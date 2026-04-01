@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project is a front-end web page that displays a collection of images in a structured, visually appealing grid layout. The gallery leverages CSS Grid for responsive layout and CSS transitions for hover-based interactivity, demonstrating that rich user experiences can be achieved without any JavaScript or third-party libraries.
 
@@ -27,7 +27,7 @@ Each image renders in grayscale by default and transitions to full color on hove
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 | Technology | Purpose |
 |------------|---------|
@@ -41,7 +41,7 @@ Each image renders in grayscale by default and transitions to full color on hove
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Image_Gallery/
@@ -60,7 +60,7 @@ Image_Gallery/
 
 ---
 
-## ⚙️ Methods
+## Methods
 
 - **Semantic HTML** — Used appropriate HTML5 elements (`<figure>`, `<figcaption>`, `<main>`, `<article>`, `<section>`) for accessible, well-structured markup.
 - **CSS Grid Layout** — Implemented a `repeat(3, 1fr)` grid with `gap` spacing for a clean, uniform card arrangement.
@@ -70,7 +70,7 @@ Image_Gallery/
 
 ---
 
-## ✨ Key Highlights
+## Key Highlights
 
 -  Zero JavaScript: all interactivity achieved purely with CSS
 -  Fully responsive grid layout using CSS Grid
@@ -81,7 +81,7 @@ Image_Gallery/
 
 ---
 
-## 📤 Output
+## Output
 
 The output is a fully functional, browser-ready HTML page. Upon opening `index.html`:
 
@@ -93,7 +93,7 @@ The output is a fully functional, browser-ready HTML page. Upon opening `index.h
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 No installation or setup required.
 
@@ -121,7 +121,7 @@ No installation or setup required.
 
 ---
 
-## 📊 Results and Conclusion
+## Results and Conclusion
 
 This project successfully demonstrates core front-end development skills — semantic markup, responsive design, and CSS-driven interactivity, without relying on any JavaScript or external frameworks. The result is a clean, performant, and visually engaging gallery page that loads instantly and works across all modern browsers.
 
@@ -129,7 +129,7 @@ It reinforces a key principle in front-end development: **CSS alone is powerful 
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - [ ] Add a **lightbox/modal view** to open images in full screen on click (JS)
 - [ ] Implement **category filtering** to sort images by tags or type
@@ -140,7 +140,7 @@ It reinforces a key principle in front-end development: **CSS alone is powerful 
 
 ---
 
-## 👤 Author and Contact
+## Author and Contact
 
 **Manas Gulati**
 - GitHub: [@ManasGulati](https://github.com/ManasGulati)
