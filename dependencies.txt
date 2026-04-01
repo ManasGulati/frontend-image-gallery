@@ -1,0 +1,28 @@
+# Dependencies
+# Image Gallery — Pure HTML & CSS Project
+# No package manager or runtime dependencies required.
+
+# ──────────────────────────────────────────
+# Core Technologies (no installation needed)
+# ──────────────────────────────────────────
+HTML5          (built-in browser support)
+CSS3           (built-in browser support)
+
+# ──────────────────────────────────────────
+# External Resources (loaded via CDN)
+# ──────────────────────────────────────────
+Google Fonts — Poppins
+URL: https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap
+
+# ──────────────────────────────────────────
+# Browser Compatibility
+# ──────────────────────────────────────────
+Chrome  88+
+Firefox 78+
+Edge    88+
+Safari  14+
+
+# ──────────────────────────────────────────
+# No npm, pip, or any package manager needed.
+# Simply open index.html in a browser.
+# ──────────────────────────────────────────
